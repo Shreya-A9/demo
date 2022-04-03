@@ -1,4 +1,0 @@
-name:vedanti kingri
-colleg:ITM
-roll on:12
-fight year bca "a"
